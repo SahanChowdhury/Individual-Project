@@ -1,0 +1,54 @@
+Dissertation 
+
+File name and description:
+
+1. Dissertation final document - Sahan Chowdhury.pdf - Contains the Project Report
+
+2. Final Code. jpynb - Contains the Python script of the code used for the dissertation (includes preprocessing, analysis, clustering and predictive modelling) - outputs have been excluded as the file size is too large 
+
+3. Final  Code-2.html - html copy of the code, including outputs
+
+4. Datasets Used folder - Contains All the datasets used - dataset names have not been altered from the original source of data. The datasets are:
+
+		- 1d26f351-6cf3-4ae4-8689-5bc11b1ad293_Data.csv - (World Bank Open Data, 2024) - https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS
+
+		- covid-containment-and-health-index.csv -  (Mathieu et al., 2020) -  Dataset link: https://ourworldindata.org/covid-stringency-index
+
+
+		- global-gdp-over-the-long-run.csv - (Our World in Data, 2017) - dataset link: https://ourworldindata.org/grapher/global-gdp-over-the-long-run?tab=table
+
+
+		- owid-covid-data.csv - (Our World in Data, 2022) - dataset obtained from https://ourworldindata.org/explorers/covid
+
+		- real-gdp-growth.csv - (Our World in Data, 2020) - DATASET LINK: https://ourworldindata.org/grapher/real-gdp-growth
+
+
+		- statistic_id244387_the-global-gender-gap-index-2024.xlsx - (Statista, 2024) - Dataset Link: https://www.statista.com/statistics/244387/the-global-gender-gap-index/
+
+		- statistic_id1212140_global-gender-pay-gap-2015-2024 (1).xlsx - (Statista, 2024) - Dataset Link: https://www.statista.com/statistics/1212140/global-gender-pay-gap #:~:text=By%20comparison%2C%20the%20uncontrolled%20gender,every%20dollar%20earned%20by%20men.
+
+		- statistic_id1212189_workplace-gender-gap-worldwide-2024-by-type.xlsx - (Statista, 2024) - Dataset Link: https://www.statista.com/statistics/1212189/workplace-gender-gap-worldwide-by-type/
+
+
+		- stay-at-home-covid.csv - (Mathieu et al., 2020) - link to dataset: https://ourworldindata.org/covid-stay-home-restrictions
+
+		- unemployment-rate-imf.csv - (Our World in Data, 2023) - link to dataset https://ourworldindata.org/grapher/unemployment-rate-imf?tab=table&time=1982..latest
+
+
+		- WHO-COVID-19-global-daily-data.csv - (datadot, 2019) - link to dataset: https://data.who.int/dashboards/covid19/data?n=o
+
+		
+
+		* Global_Mobility_Report.csv - (Google, 2020) - dataset link https://www.google.com/covid19/mobility/
+
+		This dataset was too large to be added to the submission. As a result, the dataset can be obtained from the link above and download the Global CSV file
+
+
+
+Running the code:
+
+NOTE: When trying to run the jpynb file, ensure the notebook and all datasets are within the same file.
+
+
+
+
